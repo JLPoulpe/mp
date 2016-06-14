@@ -1,0 +1,17 @@
+# git ignore les fichiers des repertoires suivants
+.htpasswds/
+Adapter/
+Core/
+blog/
+cache/
+cgi-bin
+download/
+img/
+log/
+tools/
+upload/
+webservice/
+
+# git ignore les ficheirs suivants
+.htaccess
+
