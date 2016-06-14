@@ -12,6 +12,7 @@ tools/
 upload/
 webservice/
 config/
+error_log
 
 # git ignore les ficheirs suivants
 .htaccess
