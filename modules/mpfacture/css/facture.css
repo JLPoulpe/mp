@@ -1,0 +1,40 @@
+#listAction {
+    width: 60%;
+    margin: auto;
+    font-size: 1.2em;
+    text-align: center;
+}
+#listAction a {
+    color: black;
+}
+#listAction table {
+    width: 100%;
+    border: 2px solid white;
+}
+#listAction td {
+    width: 20%;
+    padding: 5px;
+}
+#listAction th {
+    text-align: center;
+}
+#listAction .neworder {
+    border-top: 2px solid white;
+}
+#listAction .newsupplier {
+    border-bottom: 2px solid #ccc;
+}
+#listAction .detail {
+    font-size: 0.8em;
+}
+#listAction .orderNumber{
+    text-align: left;
+    font-weight: bold;
+}
+#listAction .supplierName{
+    text-align: left;
+}
+#listAction select {
+    width: 30%;
+    margin: auto;
+}

@@ -1,0 +1,338 @@
+[11-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[11-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[11-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[11-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[11-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[11-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[21-Sep-2015 14:01:36 UTC] PHP Fatal error:  Call to undefined method Customer::getCustomersForNewsletter() in /home/mespaysa/public_html/scripts/newletter.php on line 6
+[25-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[25-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[25-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[25-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[25-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[25-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[26-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[26-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[26-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[26-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[26-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[26-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[27-Sep-2015 18:00:03 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[27-Sep-2015 18:00:03 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[27-Sep-2015 18:00:03 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[27-Sep-2015 18:00:03 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[27-Sep-2015 18:00:03 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[27-Sep-2015 18:00:03 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[28-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[28-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[28-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[28-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[28-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[28-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[29-Sep-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[29-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[29-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[29-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[29-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[29-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[30-Sep-2015 14:24:51 UTC] PHP Fatal error:  Call to undefined method Mail::mpSendMailFile() in /home/mespaysa/public_html/scripts/envoiMailDirect.php on line 21
+[30-Sep-2015 14:25:07 UTC] PHP Warning:  file_get_contents(/home/mespaysa/public_html/themes/mespaysans/mail/envoiMailDirect.html): failed to open stream: Aucun fichier ou dossier de ce type in /home/mespaysa/public_html/override/classes/Mail.php on line 89
+[30-Sep-2015 14:35:22 UTC] PHP Fatal error:  Call to protected method PHPMailer::getBoundary() from context 'Mail' in /home/mespaysa/public_html/override/classes/Mail.php on line 97
+[30-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[30-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[30-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[30-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[30-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[30-Sep-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[01-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[01-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[01-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[01-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[05-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[05-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[05-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[05-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[05-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[05-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[06-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[06-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[06-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[06-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[06-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[06-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[07-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[07-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[07-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[07-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[07-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[07-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[08-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[08-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[08-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[08-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[08-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[08-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[09-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[09-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[09-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[09-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[09-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[09-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[10-Oct-2015 11:48:09 Europe/Paris] PHP Notice:  Undefined variable: templateVars in /home/mespaysa/public_html/scripts/envoiMailDirectFichier.php on line 9
+[10-Oct-2015 11:48:09 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/override/classes/Mail.php on line 81
+[10-Oct-2015 11:48:11 Europe/Paris] PHP Notice:  Array to string conversion in /home/mespaysa/public_html/override/classes/Mail.php on line 91
+[10-Oct-2015 11:48:15 Europe/Paris] PHP Notice:  Undefined variable: templateVars in /home/mespaysa/public_html/scripts/envoiMailDirectFichier.php on line 12
+[10-Oct-2015 11:48:15 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/override/classes/Mail.php on line 81
+[10-Oct-2015 11:48:15 Europe/Paris] PHP Notice:  Array to string conversion in /home/mespaysa/public_html/override/classes/Mail.php on line 91
+[10-Oct-2015 11:52:18 Europe/Paris] PHP Notice:  Array to string conversion in /home/mespaysa/public_html/override/classes/Mail.php on line 91
+[10-Oct-2015 11:52:19 Europe/Paris] PHP Notice:  Array to string conversion in /home/mespaysa/public_html/override/classes/Mail.php on line 91
+[10-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[10-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[10-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[10-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[10-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[10-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[11-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[11-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[11-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[11-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[11-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[11-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[12-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[12-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[12-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[12-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[12-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[12-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[13-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[13-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[13-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[13-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[13-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[13-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[14-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[14-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[14-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[14-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[14-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[14-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[15-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[15-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[15-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[15-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[15-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[15-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[16-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[16-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[16-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[16-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[16-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[16-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[17-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[17-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[17-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[17-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[17-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[17-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[18-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[18-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[18-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[18-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[18-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[18-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[19-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[19-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[19-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[19-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[19-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[19-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[20-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[20-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[20-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[20-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[20-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[20-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[21-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[21-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[21-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[21-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[21-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[21-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[22-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[22-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[22-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[22-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[22-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[22-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[23-Oct-2015 18:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[23-Oct-2015 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[23-Oct-2015 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[23-Oct-2015 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[23-Oct-2015 20:00:05 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[23-Oct-2015 20:00:05 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[24-Oct-2015 18:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[24-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[24-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[24-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[24-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[24-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[25-Oct-2015 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[25-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[25-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[25-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[25-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[25-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[26-Oct-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[26-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[26-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[26-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[26-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[26-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[27-Oct-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[27-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[27-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[27-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[27-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[27-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[28-Oct-2015 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[28-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[28-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[28-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[28-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[28-Oct-2015 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[29-Oct-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[29-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[29-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[29-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[29-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[29-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[30-Oct-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[30-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[30-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[30-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[30-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[30-Oct-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[31-Oct-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[31-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[31-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[31-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[31-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[31-Oct-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[01-Nov-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[01-Nov-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Nov-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Nov-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[01-Nov-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[01-Nov-2015 20:00:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[02-Nov-2015 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[02-Nov-2015 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[02-Nov-2015 20:00:06 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[02-Nov-2015 20:00:06 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[02-Nov-2015 20:00:07 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[02-Nov-2015 20:00:07 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[03-Nov-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[03-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[03-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[03-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[03-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[03-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[04-Nov-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[04-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[04-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[04-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[04-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[04-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[05-Nov-2015 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[05-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[05-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[05-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[05-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[05-Nov-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[01-Dec-2015 16:22:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[01-Dec-2015 17:22:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Dec-2015 17:22:01 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Dec-2015 17:22:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[01-Dec-2015 17:22:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[01-Dec-2015 17:22:01 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[01-Dec-2015 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[01-Dec-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Dec-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[01-Dec-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[01-Dec-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[01-Dec-2015 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[07-Dec-2015 17:22:02 Europe/Paris] PHP Fatal error:  Call to a member function getName() on a non-object in /home/mespaysa/public_html/scripts/supplierMarket.php on line 27
+[07-Dec-2015 20:00:02 Europe/Paris] PHP Fatal error:  Call to a member function getName() on a non-object in /home/mespaysa/public_html/scripts/supplierMarket.php on line 27
+[09-Dec-2015 20:00:07 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[12-Dec-2015 20:00:02 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[13-Dec-2015 20:00:04 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[14-Dec-2015 20:00:02 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[16-Dec-2015 20:00:04 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[17-Dec-2015 20:00:04 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[18-Dec-2015 20:00:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[19-Dec-2015 20:00:02 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[20-Dec-2015 20:00:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[23-Dec-2015 20:00:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[26-Dec-2015 20:00:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[27-Dec-2015 20:00:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[28-Dec-2015 20:00:08 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[30-Dec-2015 20:00:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[31-Dec-2015 20:00:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[01-Jan-2016 20:00:07 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[02-Jan-2016 20:00:06 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[03-Jan-2016 20:00:07 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[04-Jan-2016 20:00:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[05-Jan-2016 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[05-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[05-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[05-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[05-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[05-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[06-Jan-2016 19:00:01 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[06-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[06-Jan-2016 20:00:05 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[06-Jan-2016 20:00:05 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[06-Jan-2016 20:00:05 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[06-Jan-2016 20:00:05 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[07-Jan-2016 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[07-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[07-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[07-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[07-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[07-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[08-Jan-2016 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[08-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[08-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[08-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[08-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[08-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[09-Jan-2016 19:00:03 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[09-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[09-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[09-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[09-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[09-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[09-Jan-2016 20:00:11 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[10-Jan-2016 19:00:03 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[10-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[10-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[10-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[10-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[10-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[10-Jan-2016 20:00:04 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[11-Jan-2016 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[11-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[11-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[11-Jan-2016 20:00:02 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[11-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[11-Jan-2016 20:00:03 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[11-Jan-2016 20:00:03 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[12-Jan-2016 19:00:02 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/shop/Shop.php on line 324
+[12-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[12-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: SCRIPT_NAME in /home/mespaysa/public_html/classes/Link.php on line 47
+[12-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 386
+[12-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 394
+[12-Jan-2016 20:00:04 Europe/Paris] PHP Notice:  Undefined index: REQUEST_URI in /home/mespaysa/public_html/classes/controller/FrontController.php on line 451
+[12-Jan-2016 20:00:05 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home/mespaysa/public_html/scripts/supplierMarket.php on line 18
+[29-Apr-2016 15:08:29 Europe/Paris] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home/mespaysa/public_html/scripts/newsletter.php on line 30

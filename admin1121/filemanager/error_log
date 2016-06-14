@@ -1,0 +1,6 @@
+[17-Nov-2015 10:24:48 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'file /home/mespaysa/public_html/img/cms/logo-sud-ouest.jpg is missing or invalid' in /home/mespaysa/public_html/admin1121/filemanager/include/php_image_magician.php:330
+Stack trace:
+#0 /home/mespaysa/public_html/admin1121/filemanager/include/utils.php(68): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/mespaysa/public_html/admin1121/filemanager/upload.php(74): create_img_gd('/home/mespaysa/...', '/home/mespaysa/...', 122, 91)
+#2 {main}
+  thrown in /home/mespaysa/public_html/admin1121/filemanager/include/php_image_magician.php on line 330

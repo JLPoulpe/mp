@@ -1,0 +1,285 @@
+[27-Sep-2015 19:51:43 UTC] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[27-Sep-2015 19:51:44 UTC] PHP Notice:  Undefined property: FrontController::$order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 41
+[27-Sep-2015 19:51:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 41
+[27-Sep-2015 19:51:44 UTC] PHP Notice:  Undefined property: FrontController::$order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 42
+[27-Sep-2015 19:51:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 42
+[27-Sep-2015 19:51:44 UTC] PHP Notice:  Undefined property: FrontController::$order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 43
+[27-Sep-2015 19:51:44 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 43
+[27-Sep-2015 19:51:45 UTC] PHP Notice:  Undefined index: datejourMarche in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 121
+[27-Sep-2015 19:51:45 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 121
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Undefined property: FrontController::$order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 41
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 41
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Undefined property: FrontController::$order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 42
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 42
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Undefined property: FrontController::$order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 43
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 43
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Undefined index: datejourMarche in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 121
+[27-Sep-2015 19:51:47 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 121
+[01-Oct-2015 08:01:56 UTC] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[01-Oct-2015 08:02:00 UTC] PHP Notice:  Undefined index: datejourMarche in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 118
+[01-Oct-2015 08:02:00 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 118
+[01-Oct-2015 08:02:01 UTC] PHP Notice:  Undefined index: datejourMarche in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 118
+[01-Oct-2015 08:02:01 UTC] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 118
+[06-Oct-2015 22:37:15 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[09-Oct-2015 13:08:10 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[26-Oct-2015 21:10:00 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[28-Oct-2015 14:48:51 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[05-Nov-2015 21:14:55 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[10-Jan-2016 17:55:36 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Undefined index: market in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 64
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Undefined index: market in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 141
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Undefined index: retraitSurMarche in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Undefined index: market in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 64
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Undefined index: market in /home/mespaysa/public_html/cache/smarty/compile/70/cd/34/70cd34b1e0e4ee3ca09b9abf01a4b6844194ba2a.file.pdf.tpl.php on line 141
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Undefined index: retraitSurMarche in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[10-Jan-2016 17:55:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[11-Jan-2016 23:15:10 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[11-Jan-2016 23:15:12 Europe/Paris] PHP Notice:  Undefined index: retraitSurMarche in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[11-Jan-2016 23:15:12 Europe/Paris] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[11-Jan-2016 23:15:16 Europe/Paris] PHP Notice:  Undefined index: retraitSurMarche in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[11-Jan-2016 23:15:16 Europe/Paris] PHP Notice:  Trying to get property of non-object in /home/mespaysa/public_html/cache/smarty/compile/ad/40/c8/ad40c8b19a21b6766a87f58a4fd91c47665e6850.file.invoice.addresses-tab.tpl.php on line 31
+[31-Mar-2016 16:29:18 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '475', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('342', '475', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[31-Mar-2016 16:34:00 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('318', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Ord in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[31-Mar-2016 17:01:54 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1853', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('360', '1853', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[31-Mar-2016 21:42:28 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '373', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('322', '373', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[08-Apr-2016 15:10:55 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[08-Apr-2016 15:10:56 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '454', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('338', '454', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[08-Apr-2016 20:00:44 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[08-Apr-2016 20:00:45 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('52', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Orde in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[08-Apr-2016 20:34:07 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[08-Apr-2016 20:34:07 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('249', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Ord in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[09-Apr-2016 14:05:28 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[09-Apr-2016 14:05:31 Europe/Paris] PHP Notice:  Undefined variable: order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 35
+[09-Apr-2016 14:05:31 Europe/Paris] PHP Fatal error:  Call to a member function getOrderByCartId() on a non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 35
+[10-Apr-2016 22:59:22 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[10-Apr-2016 22:59:23 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('328', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Ord in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[14-Apr-2016 15:33:39 Europe/Paris] PHP Fatal error:  Call to a member function getOrderByCartId() on a non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 35
+[14-Apr-2016 17:47:28 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1496', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('784', '1496', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[15-Apr-2016 19:15:42 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[15-Apr-2016 19:15:42 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '692', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('381', '692', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[18-Apr-2016 15:54:44 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[18-Apr-2016 15:54:44 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1964', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('1123', '1964', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(67 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[18-Apr-2016 20:27:04 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[18-Apr-2016 20:27:05 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '266', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('53', '266', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678):  in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[19-Apr-2016 09:51:48 Europe/Paris] PHP Notice:  Undefined index: RedirectRequired in /home/mespaysa/public_html/modules/paypal/express_checkout/payment.php on line 312
+[19-Apr-2016 09:51:48 Europe/Paris] PHP Notice:  Undefined variable: order in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 35
+[19-Apr-2016 09:51:48 Europe/Paris] PHP Fatal error:  Call to a member function getOrderByCartId() on a non-object in /home/mespaysa/public_html/modules/mpinvoice/mpinvoice.php on line 35
+[21-Apr-2016 16:20:20 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1820', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('364', '1820', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[27-Apr-2016 17:54:18 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -2, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('178', '0', -2)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Ord in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[28-Apr-2016 21:42:52 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('1098', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Or in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[29-Apr-2016 14:44:54 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '519', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('350', '519', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[05-May-2016 15:41:14 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1864', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('371', '1864', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[10-May-2016 17:55:36 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('1098', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Or in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[12-May-2016 18:36:25 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -4, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('180', '0', -4)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Ord in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[13-May-2016 15:44:00 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '0', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('328', '0', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678): Ord in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[13-May-2016 21:15:35 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1845', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('351', '1845', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[20-May-2016 18:47:34 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1835', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('343', '1835', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
+[20-May-2016 21:27:01 Europe/Paris] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property StockAvailable->id_product is empty' in /home/mespaysa/public_html/classes/ObjectModel.php:909
+Stack trace:
+#0 /home/mespaysa/public_html/classes/ObjectModel.php(246): ObjectModelCore->validateFields()
+#1 /home/mespaysa/public_html/classes/ObjectModel.php(652): ObjectModelCore->getFields()
+#2 /home/mespaysa/public_html/classes/stock/StockAvailable.php(406): ObjectModelCore->update(false)
+#3 /home/mespaysa/public_html/Core/Business/Stock/Core_Business_Stock_StockManager.php(127): StockAvailableCore->update()
+#4 /home/mespaysa/public_html/classes/stock/StockAvailable.php(472): Core_Business_Stock_StockManager->updateQuantity(Object(Product), '1845', -1, NULL)
+#5 /home/mespaysa/public_html/classes/order/OrderDetail.php(473): StockAvailableCore::updateQuantity('351', '1845', -1)
+#6 /home/mespaysa/public_html/classes/order/OrderDetail.php(638): OrderDetailCore->checkProductStock(Array, 2)
+#7 /home/mespaysa/public_html/classes/order/OrderDetail.php(678 in /home/mespaysa/public_html/classes/ObjectModel.php on line 909
