@@ -44,12 +44,14 @@ class Facture extends ObjectModel {
     public function getListOrders($status) {
         $orderDetail = new OrderDetail();
         $listOrderDetail = $orderDetail->getDetailsCommandsForBo($status);
-        
+
         $listOrders = array();
-        foreach($listOrderDetail as $orderDetailDto) {
-            $listOrders[$orderDetailDto->getIdOrder()][] = $orderDetailDto;
+        if(!empty($listOrderDetail)) {
+            foreach($listOrderDetail as $orderDetailDto) {
+                $listOrders[$orderDetailDto->getIdOrder()][] = $orderDetailDto;
+            }
         }
-        
+
         return $listOrders;
     }
     
@@ -58,13 +60,15 @@ class Facture extends ObjectModel {
         $listOrderDetail = $orderDetail->getDetailsCommandsForBo($status);
         
         $listOrders = array();
-        foreach($listOrderDetail as $orderDetailDto) {
-            $result = $this->isAlreadyPaid($orderDetailDto->getIdSupplier(), $orderDetailDto->getIdOrder());
-            if(!$result) {
-                $listOrders[$orderDetailDto->getIdSupplier()][$orderDetailDto->getIdOrder()][] = $orderDetailDto;
+        if(!empty($listOrderDetail)) {
+            foreach ($listOrderDetail as $orderDetailDto) {
+                $result = $this->isAlreadyPaid($orderDetailDto->getIdSupplier(), $orderDetailDto->getIdOrder());
+                if (!$result) {
+                    $listOrders[$orderDetailDto->getIdSupplier()][$orderDetailDto->getIdOrder()][] = $orderDetailDto;
+                }
             }
         }
-        
+
         return $listOrders;
     }
     
